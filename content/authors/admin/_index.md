@@ -5,23 +5,26 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Neuroscience
+    institution: University of Sussex
+    year: 2021
+  - course: MSc Mind & Brain
+    institution: Berlin School of Mind and Brain - Humboldt Universität zu Berlin
+    year: 2017
+  - course: BSc in Cognitive Psychology (Honours)
+    institution: University of Trento
+    year: 2015
 email: ""
 interests:
+- Reality Testing/Monitoring/Filtering
+- Metacognition
+- Consciousness Studies
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Time Series Analysis
+
 organizations:
 - name: University of Sussex
-  url: ""
+  url: "https://www.sussex.ac.uk/"
 role: PhD Student
 social:
 - icon: envelope
@@ -46,4 +49,5 @@ user_groups:
 - Visitors
 ---
 
-Hi, my name is Alberto Mariola and I'm a Cognitive Computational Neuroscience PhD Student at the University of Sussex.
+Hi and welcome,
+my name is Alberto Mariola and I'm a Cognitive/Computational Neuroscience PhD Student at the University of Sussex. I'm currently part of the [4-Year Sussex Neuroscience PhD Programme](http://www.sussex.ac.uk/sussexneuroscience/study/4yearphd) and I'm working at the [Sackler Centre for Consciousness Science](http://www.sussex.ac.uk/sackler/) under the supervision of [Prof. Anil Seth](https://www.anilseth.com/), [Dr. Warrick Roseboom](http://www.warrickroseboom.com/) and [Dr. Luc Berthouze](https://scholar.google.com/citations?hl=en&user=WvYeh5IAAAAJ&view_op=list_works&sortby=pubdate). 
