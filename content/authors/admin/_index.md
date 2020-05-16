@@ -20,29 +20,30 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
+- name: University of Sussex
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/langestroop
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=93msY9YAAAAJ&hl=it#
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/langestroop
+- icon: keybase
+  icon_pack: fab
+  link: https://github.com/langestroop
 superuser: true
-title: Nelson Bighetti
+title: Alberto Mariola
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, my name is Alberto Mariola and I'm a Cognitive Computational Neuroscience PhD Student at the University of Sussex.
